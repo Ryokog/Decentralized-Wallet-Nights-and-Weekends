@@ -1,5 +1,6 @@
 # Cross-Chain-Wallet
 A cross-chain wallet project using Connext for learning and building a portfolio.
+
 This project will be built in the following phases;
 
 1, Make a cross-chain transaction possible using `xcall` by Connext
@@ -8,4 +9,4 @@ This project will be built in the following phases;
 
 3, Add a KYC mechanism
 
-I may also explore connexting to bridges for learning purposes.
+I may also explore connecting to bridges for learning purposes.
