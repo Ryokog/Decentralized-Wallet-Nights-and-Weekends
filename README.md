@@ -2,7 +2,7 @@
 
 This repo will have
 
-- Research folder
-- Standard code folders
+- Research folder under the Research Branch
+- Standard code folders under the Main Branch
 
-under the aim to create a best self-custodial wallet solution for the wider community.
+with the aim to create a best self-custodial wallet solution for the wider community.
