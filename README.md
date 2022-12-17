@@ -1,12 +1,8 @@
-# Cross-Chain-Wallet
-A cross-chain wallet project using Connext for learning and building a portfolio.
+# Decentralized-Wallet
 
-This project will be built in the following phases;
+This repo will have
 
-1, Make a cross-chain transaction possible using `xcall` by Connext
+- Research folder
+- Standard code folders
 
-2, Add a privacy feature
-
-3, Add a KYC mechanism
-
-I may also explore connecting to bridges for learning purposes.
+under the aim to create a best self-custodial wallet solution for the wider community.
