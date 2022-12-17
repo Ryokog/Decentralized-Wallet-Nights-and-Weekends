@@ -1,8 +1,6 @@
-# Decentralized-Wallet
+# Decentralized-Wallet-Project
 
-This repo will have
+This project repo aims to create a best self-custodial wallet solution for the wider community.
 
-- Research folder under the Research Branch
-- Standard code folders under the Main Branch
-
-with the aim to create a best self-custodial wallet solution for the wider community.
+[Background/Problem Setting]
+Centralized Custodians that are widely used in the crypto space often either 1) lacks transparency, and/or 2) have a single point of failure.
