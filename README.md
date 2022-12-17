@@ -18,3 +18,7 @@ This project ideally plan to add a functionality where a wallet user can initiat
 [Case Studies]
 
 Qredo - Qredo prvodies a WEB UI and a mobile app allowing users to form a multi-signatory scheme with trusted partners.
+
+Web3Auth
+
+
