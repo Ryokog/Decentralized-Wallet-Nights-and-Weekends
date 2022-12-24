@@ -28,4 +28,5 @@ Argent - Self-custody wallet, so claimed by Argent, without seed phrases. It is 
 
 Web3Auth - an enterprise-grade self-custody, so claimed by Web3Auth, wallet service which also recently released MPC.
 
+Gnosis Safe - One of the most popular wallet platforms and is based on smart contracts.
 
